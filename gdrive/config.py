@@ -6,7 +6,7 @@ class config:
     SUDO_USERS = "1266733572 1266733572" # Separated by space.
     SUPPORT_CHAT_LINK = "https://t.me/PYRO_BOTZ_CHAT"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = "325149013081-iqfhdn6n1ksje51habkk645ghijd5p6u.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_ID = "325149013081.apps.googleusercontent.com"
     G_DRIVE_CLIENT_SECRET = "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"
 
 
